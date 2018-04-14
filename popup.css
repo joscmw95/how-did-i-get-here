@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f8f8;
+  margin: 0px;
+}
+#wrapper {
+  margin: 0px 0px;
+  min-width: 275px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+#titletext {
+  padding: 8px 8px 2px 0px;
+  text-align: center;
+}
+.box {
+  background: #f7f6f2;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.10);
+}
+.header {
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+a:focus {
+  outline: none;
+}
